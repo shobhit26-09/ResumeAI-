@@ -31,7 +31,7 @@ const App = () => {
                     routing="path" 
                     path="/sign-in" 
                     signUpUrl="/sign-up"
-                    redirectUrl="/builder"
+                    redirectUrl="/"
                   />
                 </div>
               } 
@@ -44,7 +44,7 @@ const App = () => {
                     routing="path" 
                     path="/sign-up" 
                     signInUrl="/sign-in"
-                    redirectUrl="/builder"
+                    redirectUrl="/"
                   />
                 </div>
               } 
